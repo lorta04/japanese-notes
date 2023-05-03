@@ -1,0 +1,153 @@
+不 = tarinai
+非 = chigau
+未 = mada ... nai
+無 = motteinai
+
+################################################################################################################################################
+
+https://japanese.stackexchange.com/questions/58233/what-is-the-difference-between-%E3%81%AB%E4%BC%B4%E3%81%A3%E3%81%A6-and-%E3%81%A8%E5%85%B1%E3%81%AB
+https://www.imabi.net/aschange.htm
+
+1) 「Aに伴ともなってB」= A associated/accompanied with B
+
+2) 「Aと共ともにB」= A (together) with B (along with A, B will happens)
+
+3) 「Aに従したがってB」= B according to A (A and B have parallel relationship)
+
+4) 「Aに連つれてB」= B happens as A happens (A and B are both occur simultaneously)
+
+################################################################################################################################################
+
+https://japanese.stackexchange.com/questions/35948/%E3%81%AB%E3%81%97%E3%81%A6%E3%82%82-and-%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82-is-there-a-difference
+
+にしても ⇒ になるとしても ⇒ になっても
+としても ⇒ であるとしても ⇒ であっても
+にしても implies "even when" something becomes the case
+
+としても implies "even if" something is the case or "even as", "even for".
+
+################################################################################################################################################
+
+*10.1 1.c 2.b 4.b 
+*10.3 2
+*11.4 3.c
+*18.3 2
+*19.4 2.b
+*33.4 3.c
+*37.4 3
+
+*94.1 1.3
+
+*102.3 3
+
+*118.2 3
+
+*119.7 4 5 I think it's best to learn よくも…ものだ as a single grammar point.
+
+################################################################################################################################################
+
+どうするというの
+
+自分の人生について考えるのは自由だし否定はしねえ。だけどよ、その答えを他人に求めてどうするってんだよ。
+ハハッ　これ以上 上達して どうするってんだ？
+
+補足へ：
+はい、その通りです。
+「どうするというの？」には【どうするのか全くわからない→どうすることもできないじゃないか!?】という怪訝そうな気分が感じられます。
+
+
+
+
+【どうするの？】
+単純に疑問を投げ掛けている。
+
+【どうするというの？】
+こちらの方がより強く疑問を呈していて、話者の困惑や不信感を伺わせる。
+
+例：
+
+この後どうするの？カラオケに行く？
+
+この後どうするというの？もう空いてる店がないよ！
+
+################################################################################################################################################
+
+様子 : Most informal, most 'soft'. Most heavily used in colloquial situations. Suitable for insignificant things (as in 焼き芋の様子はどうだ？), but also for significant things (as in 洋子の手術後の様子はどうだ？).
+
+状況 : A bit formal, but also frequently used in colloquial situation. Mostly used for things that can be observed externally (as opposed to a person's feelings etc.). For example, 事故の状況. If you say 洋子の手術後の状況, the listener will think of heart beat, blood pressure, breath rate, the doctor's assessment etc. If you say 洋子の手術後の様子, the listener will think of how she feels now, whether she is feeling pain etc.
+
+状態 : Similarly to 状況, it's used to signal objectivity. However, it can also be used for things that cannot be observed from outside like feelings. For example, if you'd say 洋子の手術後の心の状態, the speaker is indicating that he/she is making an objective observation rather than just expressing empathy. If you'd say 洋子の手術後の心の様子, there is much more empathy. Also, more formal than 様子 but is also used heavily in colloquial situation. Also mostly used for static things. 状況 or 様子 can be used for things that are changing right now, but 状態 is more suitable for static things. For example, if you'd say 株価の状況, the listener will think of the prices changing minute by minute. If you say 株価の状態, he/she will think of a more long timespan like this year, or this month. At minimum the image they get will be a more static price rather than actively changing prices.
+
+事情 : Mostly to talk about reasons, as in 風邪で動けなかったという事情を酌んでいただき、許しては頂けないでしょうか？ However, can also be used similarly to 状況, as in 経済事情. There is a difference between 状況 and 事情 though. If there is a report about 経済状況, the listener would think of a summary of the current situation or something. If you talk about 経済事情, it kinda sound more deep and the listener would anticipate a more deep report/analysis than 経済状況.
+
+################################################################################################################################################
+
+ドアが開かない。
+Doa ga akanai.
+ประตูเปิดไม่ออก
+
+♥️ 自動詞 jidoushi เน้น focus ที่ "สิ่งนั้น" ไม่ได้ focus ที่การกระทำ กระบวนการคิดจึงเป็นแบบนี้ครับ ดึงหรือผลักแล้ว ➡️ "#ประตู ไม่ยอมเปิด"
+
+เปรียบเทียบกับ
+
+ドアが開けられない。
+Doa ga akerarenai.
+เปิดประตูไม่ได้, ไม่สามารถเปิดประตูได้
+(เน้นการกระทำมากกว่า)
+
+僕には開けられないよ。
+Boku ni wa akerarenai yo.
+ตัวผมเปิดไม่ได้หรอก
+
+################################################################################################################################################
+
+もしくは
+
+################################################################################################################################################
+
+わけ
+
+目安"として"
+
+「では、次はギルドランクの説明をしますね。ランクはＦから始まり、Ｅ、Ｄ、Ｃ、Ｂ、Ａ、Ｓと上がっていきます。ランクが上がるのは依頼の成功数、失敗数を考慮します。失敗が多い場合は上がることはありませんので、依頼を受けるときは自分の力に合った依頼を受けてください。あと、同ランクの依頼を受け続けた場合も上がることはありません」
+
+「どういうこと？」
+
+「依頼は一つ上のランクまで受けることができます。ですので、FランクのユナさんがFランクの依頼を何百回と受けてもランクは上がることはありません」
+
+「つまり、一つ上のランクをこなして、成功するとランクが上がる"わけ"ね」
+
+「目安"として"ワンランク上の依頼を十回以上になります。そこの辺はギルドが判断します」
+
+「もし、ランクが上の人と協力して依頼を達成した場合はどうなるの？」
+
+「その辺りは細かい説明になりますが、依頼を受けるときには全員にギルドカードを提出させています。その中に高ランクの人がいた場合、合格ラインを上げさせてもらいます」
+
+################################################################################################################################################
+
+周辺 vs 周囲
+
+毎日、公園の周辺を30分歩く。
+朝ご飯の前に、家の周囲を犬と散歩する。
+
+居眠り vs うとうと
+
+################################################################################################################################################
+
+さまさま
+
+クマハウスに戻り、冷蔵庫から果汁を用意し、クマボックスから湯気が立ち上る、温かいお弁当を取り出す。
+
+時間停止さまさまだ。
+
+################################################################################################################################################
+
+限り vs だけ
+https://japanese.stackexchange.com/questions/827/what-is-the-difference-between-%E5%87%BA%E6%9D%A5%E3%82%8B%E9%99%90%E3%82%8A-and-%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%A0%E3%81%91
+
+################################################################################################################################################
+
+https://hinative.com/questions/2112774
+よく〜できるものだ is a set phrase meaning "I wonder how S can 〜." So the whole sentence means "I wonder how he can eat as many as three bowls of ramen!"
+
+################################################################################################################################################

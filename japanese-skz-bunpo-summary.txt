@@ -1,0 +1,571 @@
+1. ～とき・～直後に
+1.1 ～際（に）　ー　「硬い言い方」
+1.2 ～に際して・～にあたって　ー　「硬い言い方」 
+1.3 ～た途端（に）
+1.4 ～（か）と思った・～（か）と思ったら
+1.5 ～か～ないかのうちに
+
+2.～している（進行中）
+2.1 ～最中だ　ー　名の・動ている形
+2.2 ～うちに　ー　名の・動ている・ない形
+2.3 ～ばかりだ・～一方だ
+2.4 ～（よ）うとしている　ー　「硬い言い方」　ー　กำลังจะ～
+2.5 ～つつある　ー　「硬い言い方」
+2.6 ～つつ　ー　「14.4」　ー　「硬い言い方」
+
+3. ～後で
+3.1 ～てはじめて　ー　พอได้ทำ～ถึง
+3.2 ～上（で）　ー　「6.5」　ー　動た形　ー　ทำ～(เป็นการเตรียม)ก่อนแล้วถึงทำอย่างอื่นทีหลัง
+3.3 ～次第　ー　「硬い言い方」　ー　動ます形
+3.4 ～て以来・～てこのかた
+3.5 ～てからでないと・～てからでなければ　ー　must first do; cannot do without first doing ~　
+
+4. 範囲の始まりと終わり・その間
+4.1 ～をはじめ（として）　ー　「硬い言い方」　ー　for example; starting with ~
+4.2 ～からして　ー　judging from; based on; since; from; even ~　ー　แค่เรื่องนั้นยัง 名詞 ＋ ★ ใช้ในกรณีแฝงความรุ้สึกว่า แค่เรื่องง่ายๆ นั้นยังทำไม่ได้ เรื่องอื่นก็คงเหมือนกัน 
+4.3 ～にわたって　ー　ใช้วางหลังคำนามแสดงระยะเวลา, จำนวนครั้ง, ขอบเขตของสถานที่ แสดงสภาพว่าครอบคลุมขอบเขตทั้งหมด มีความหมายว่า “ตลอด..., โดยทั่ว...”
+4.4 ～を通じて・～を通して　ー　～の期間ずっと同じ状態だ　ー　～を手段にして、あることをする
+
+にわたって expresses the duration of a single ongoing project/activity.
+試験のために、一年にわたって勉強した。
+I spent a year studying (possibly taking holiday breaks) for the exam.
+
+ここは40000年に渡って氷河期で、凍っていた。
+This place has been in an ice age and was frozen for 40000 years.
+
+を通じて means that multiple instances of a single event or a single state are repeated consistently throughout the time span.
+試験のために、一年を通じて勉強した。
+I studied throughout the year without taking a holiday break (possibly for a few years) for the exam.
+
+ここは1年を通じて凍る。
+This place is frozen for the whole year.
+
+4.5 ～限り　ー　「5.2」　ー　～の範囲は全部あることをする・ある状態だ　ー　รู้สึกเหมือนทำทุกอย่าง
+4.6 ～だけ　ー　～の範囲の限界まであることをする ー　รู้สึกเหมือนทำเท่าที่สามารถทำได้　ー　potential vs normal from?
+
+5. ～だけ
+5.1 ～に限り　ー　「硬い言い方」　ー　～だけは特別だ・例外だ
+5.2 ～限り（は）　ー　「4.5」　ー　～の状態が続いている間だけは、同じ状態が続く　ー　普通形現在（な形な/である・名である）
+5.3 ～限りでは　ー　情報源の範囲を～だけにすると、あることを言える　ー　based on information
+5.4 ～に限って　
+ー　～は普段と違っている　
+ー　～のことが、ほかの運が悪いことと偶然重なる　ー　บ่น
+ー　特別に信じている～だから、悪いことはないはずだ　ー　うちの子に限って友達をいじめることはないと思いますが．．．
+ー　名
+
+6. ～だけではなく・それに加える
+6.1 ～に限らず　ー　範囲は～だけでなく、さらに広い範囲のものも含む 　ー　scale ต้องใหญ่ขึ้น
+6.2 ～のみならず　ー　「硬い言い方」　ー　だけでなく、ほかにもある　ー　名・普通系（な形である・名である）　ー　ใช้ในของระดับเดียวกันได้ ค่าน้ำ -> ค่าไฟ
+6.3 ～ばかりか　ー　～でけでも十分なのに、さらにほかのことも加わる　ー　名・普通系（な形な/である・名である）　ー　not only... but also; as well as ~　ー
+6.4 ～はもとより　ー　「硬い言い方」　ー　～はもちろん、ほかもそうだ　ー　ใช้เมื่อต้องการกล่าวว่าเป็นสิ่งที่แน่นอนอยู่แล้ว มีความหมายว่า “ไม่ใช่แค่...เท่านั้น” (แต่ยังมีสิ่งอื่นอีก) 
+6.5 ～上（に）　ー　「3.2」　ー　だけでなく、さらにいいこと・悪いことが重なる　ー　普通系（な形な/である・名の/である）　ー　“นอกจาก... ยัง... อีกด้วย”　
+
+7. ～について・～を相手にして
+7.1 ～に関して　ー　「硬い言い方」　ー　名　ー　https://japanese.stackexchange.com/questions/934/difference-between-%E3%81%AB%E3%81%8B%E3%82%93%E3%81%97%E3%81%A6-and-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+7.2 ～を巡って　ー　「硬い言い方」　ー　～について議論・対立的行為・うわさなどをする　ー　ใช้กับเรื่องแย่ๆ
+7.3 ～にかけては　ー　～が誰よりも上手だ　ー　名　ー　เก่ง
+7.4 ～に対して　
+ー　～を相手にあることをする・～についてある感情を持つ　ー　名　ー　towards; against; regarding​ ~　
+ー　～とははっきり違って、あることが言える　ー　名・普通形（な形な/である・名な/である）＋の　ー　in contrast with​ ~
+
+7.5 ～に答えて　ー　～の期待・要望がかなうように、あることをする　ー　名　
+
+8. ～を基準にして
+8.1 ～をもとに（して）　
+ー　～という素材・基礎・土台などからあるものを作り出す　ー　実際の材料などには使わない。後には、何かを新しく作り出す・何かが作り出されるという意味の動詞の文が来ることが多い
+ー　ใช้กับ ข้อมูล สถิติ กฎเกกณฑ์ นิสัย มักเป็นการแสดงว่า สิ่งนั้นๆ ได้มีที่มาอย่างไร เช่น รายงานฉบับนี้ได้ถูกรวบรวมจากผลการสำรวจแบบสอบถาม 
+ー　based on; derived from; building on; beginning with ~
+8.2 ～に基づいて　ー　を基準と考えてあることをする　ー　名
+8.3 ～に沿って　ー　～に合うように・～からはずれないようにあることをする　ー　名
+8.4 ～のもとで・～のもとに　(の下で・に)
+ー　～の影響を受けてあることをする・～の状況であることをする　ー　under; with ~
+ー　「～のもとで」primarily used with people (teacher, parents). The meaning is to "receive influence from the indicated person"
+ー　「～のもとに」primarily used with situations
+ー　名
+8.5 ～向けだ　ー　～という特定の対象に合うように考えられる　ー　intended for; aimed at ~
+
+9. ～に関連して・～に対応して
+9.1 ～につれて（に連れて）・～にしたがって（に従って）　ー　一方が変化するのと一緒に、もう一方も変化する
+ー　「Aに連つれてB」= B happens as A happens (A and B are both occur simultaneously)
+ー　「Aに従したがってB」= B according to A (A and B have parallel relationship)
+ー　https://japanese.stackexchange.com/questions/58233/what-is-the-difference-between-%E3%81%AB%E4%BC%B4%E3%81%A3%E3%81%A6-and-%E3%81%A8%E5%85%B1%E3%81%AB
+ー　https://www.imabi.net/aschange.htm
+ー　するｖ・動辞書形
+9.2 ～に伴って・～とともに（と共に）　ー　「硬い言い方」　ー　一方が変化するのと一緒に、もう一方も変化する・変化させる
+ー　「Aに伴ともなってB」= A associated/accompanied with B
+ー　「Aと共ともにB」= A (together) with B (along with A, B will happens)
+ー　https://japanese.stackexchange.com/questions/58233/what-is-the-difference-between-%E3%81%AB%E4%BC%B4%E3%81%A3%E3%81%A6-and-%E3%81%A8%E5%85%B1%E3%81%AB
+ー　https://www.imabi.net/aschange.htm
+ー　「～に伴って」　ー　means "associated/accompanied with". It may show that something is happening together with a change/transition of a certain situation.
+ー　「～とともに」　ー　Show that something happens together with a change/transition of a certain situation. However, unlike ～につれて, the entire sentence doesn’t necessarily have to show a state of progress. As for its usage similar to ～につれて, it’s also the case that the words it follows must show change in situation. It cannot be words pertaining to action, which ～につれ and ～にしたがって can be.   
+ー　人口の増加とともに、犯罪が多発する。　ー　Along with the increase in population, crimes will frequently occur.
+ー　するｖ・動辞書形
+9.3 ～次第だ　ー　が変われば結果も変わる・～によって決まる　ー　ทันทีที่, จึง, ..ขึ้นอยู่กับ 　ー　名
+9.4 ～に応じて　ー　～に合わせて変える・変わる　ー　depending on; in accordance with ~　ー　名
+9.5 ～につけて　ー　～すると、いつも必ずそういう気持ちになる　ー　ทุกครั้งที่จะ 動詞 辞書形式+ ★ มักใช้คู่กับ กริยา　ー　動辞書形
+
+10. ～や～など
+10.1 ～やら～やら　ー　～や、ほかの～などの例があるように、いろいろだ　ー　同じグループの言葉を並べ、いろいろあって整理されてないことを強調する。話者がはっきり限定できないことやいろいろあって大変だと思うことを取り上げることが多い。
+ー　コンビニの袋には、パンやらおにぎりやらジュースが入っていた。　ー　ในถุงจากร้านสะดวกซื้อมีทั้งขนมปัง ข้าวปั้น และน้ำผลไม้
+ー　名・動辞書形・イ形い
+10.2 ～というか～というか　ー　～という言い方もできるし、ほかの～という言い方もできる。　ー　or rather; or perhaps I should say; I mean ~　ー　あの子は元気がいいというか落ち着かないというか、静かにじっとしていない子です
+ー　普通形（な形・名）
+10.3 ～にしても～にしても・～にしろ～にしろ・～にせよ～にせよ　ー　「15.6」　ー　～を例にとっても、ほかの～を例にとっても同じことが言える　ー　同じグループ・対立　ー　野菜にしても魚にしても、料理の材料は新鮮さが第一です
+ー　名・動辞書形/ない形
+10.4 ～といった　ー　いくつかの例の後につけて、例を纏める　ー　like; such as ~　ー　バスケットボール、サッカーといったスポーツは大学生に人気がある。
+ー　「エコ」という言葉は、「環境にいい」といった意味で使われるようになった。
+ー　名
+
+11. ～に関係なく・無視して
+11.1 ～を問わず　ー　～がどうかは問題ではなく、どれにも同じことが言える　
+ー　「～を問とわず」 = "regardless of ~~" in the sense of "no questions asked about ~~" even though one could ask questions about "~~" if one wanted to.
+ー　Examples: 「年齢ねんれいを問わず (age)」、「性別せいべつを問わず (gender)」、「経験けいけんを問わず (experience)」, etc.
+ー　いろいろな違いや幅のある言葉（年齢・国籍・天候）や対立する言葉（男女・内外・有無）
+11.2 ～にかかわりなく・～にかかわらず　ー　～には関係なく同じようになる
+ー　「～に関かかわらず」 = "regardless of ~~" in the sense of "~~ bearing no influence (on another event)" mostly because one has no control of "~~"
+ー　Examples: 「サッカーの試合しあいは、天候てんこうに関わらず行おこなわれる。」= "Soccer matches are held regardless of the weather."
+ー　幅のある言葉（距離・金額・大きさ）。また、対立する言葉（行く、行かない・多い、少ない）や「（疑問詞）～か」
+ー　名
+11.3 ～もかまわず　ー　普通なら気にする～のことを気にしないで行動する　ー　人目もかまわず、道で大泣きしている人を見かけた　ー　名・普通形（な形な/である・名な/である）＋の
+11.4 ～はともかく（として）　ー　anyhow; anyway; regardless; in any case; whether or not ~
+ー　N＋はともかく、～ means that N might be true, but it doesn't really matter compared to ~. Take for example:
+ー　https://japanese.stackexchange.com/questions/58671/difference-between-%E3%81%AF%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F%E3%81%A8%E3%81%97%E3%81%A6-and-%E3%81%AF%E3%81%95%E3%81%A6%E3%81%8A%E3%81%8D
+ー　その歌手、顔はともかく、歌うのがうまいよ。　ー　That singer, say what you want about his face, but he can sing!
+ー　This implies that the speaker recognizes that the singer's face might be ugly, but he would rather focus on the singer's voice.
+ー　名
+11.5 ～はさておき　ー　setting aside ~
+ー　N＋はさておき、～ means more "setting aside N, let's look at ~" (though ~ might still be important, it just isn't as big a priority). For example:
+ー　どんな家がいいかはさておき、どんな地域に引っ越したいかを考えよ。　ー　Leaving aside what kind of house would be good, think about what kind of area you want to move to.
+ー　This implies that what kind of house is good DOES matter (unlike in はともかく), and after you decided something else we might return to this question, but the priority first is what area you want to move to.
+ー　名
+
+12. 強く否定する・強く否定しない
+12.1 ～わけがない　ー　ไม่มีทางที่จะ...　ー　普通形（な形な/である・名の/である）
+// TODO
+12.2 ～どころではない・～どころか　ー　「18.5」　ー　ไม่ใช่เวลา ..ไม่ใช่ที่ 動詞辞書刑 名詞+★ ใช้สื่อว่า ไม่ใช่สถานการณ์อันสมควร ที่จะทำแบบนั้น เช่นใกล้สอบแล้ว ไม่ใช่เวลาที่จะดูทีวี　ー　名・普通形（な形（な）/である・名である）
+12.3 ～ものか　ー　「24.6」　ー　「話し言葉」　ー　絶対～ない　ー　普通形（な形な・名な）　
+12.4 ～わけではない・～というわけではない　ー　全部～とは言えない・特に～ということではない　ー　ไม่ใช่ว่า.....ทั้งหมด
+ー　普通形（な形な/である・名の/な/である）
+ー　普通形（な形（だ）・名（だ））＋という
+12.5 ～というものではない・～というものでもない　ー　ある条件が整えば必ず～ということになるとはいえない　ー　there is no guarantee that…; not necessarily ~
+ー　お金があれば幸せだというものでもない。　ー　Having money is no guarantee that you will be happy.
+ー　「～というものでもない」の方が少し柔らかい言い方
+ー　普通形（な形（だ）・名（だ））
+
+https://www.imabi.net/whenitcomesto.htm
+
+13. ～（話題）は
+13.1 ～とは　ー　「硬い言い方」　ー　～という言葉を説明・定義する　ー　名
+13.2 ～といえば　ー　「13.3」　
+ー　話題に出てきた～という言葉を取り上げ、それに関連のある別の話に導く　ー　speaking of (which) smth then change the topic using ～
+ー　～＋といえば
+ー　ということを一応認めておいて、その後で本当に言いたいことを言う
+ー　今のアパート、駅から遠いので不便といえば不便ですが、静かでいいですよ
+ー　普通形（な形（だ）・名（だ））＋といえば
+13.3 ～というと・～といえば・～といったら　ー　「13.2」「13.5」　ー　～という言葉からすぐに思いつくことを言う
+ー　 ～というと is used to indicate what is representative or deeply associated with something, and it can even describe an inevitable correlation between something (as seen in Ex. 3). This pattern is quite objective in nature and is seen most frequently in the written language. In a literal sense, you can translate it as “if one were to speak…of,” but its translation can be flexible to more easily translated as “when/in/if speaking of…”
+ー　 When using ～といえば, a lot of enthusiasm is felt when bringing up something into conversation. It is seen a lot in conversation and can be very definitive as far as the emotional context of one’s statement is concerned.
+ー　
+ー　A「私、今日でこの仕事を辞めるんです。」
+ー　B「えっ。辞めるというと、もう来ないということですか。」
+ー　「～というと」は相手の言った言葉が自分の思っていることと同じかどいか確かめる用法もある、後には、確かめる言い方（～ね・～か）が来ることが多い
+ー　名・　動・形普通形
+13.4 ～（のこと）となると　ー　「15.1」　ー　～の話題・～に関連することに対しては、普通とは違う態度になることを強調する　ー　when it comes to; in such a case; if that happens　ー　名
+13.5 ～といったら　ー　「13.3」　ー　～の程度が普通ではないということを強調する　ー　締め切り前の仕事の忙しさとったら、君には想像もできないと思うよ　ー　名
+
+14. ～けれど
+14.1 ～にもかかわらず　ー　“although/despite X…” This can be used to indicate that an action/state Y is done/happens despite “X.” Or, the speaker is not constrained by “X” and Y, thus, can take place.
+ー　The word "～にもかかわらず" expresses a situation that differs from the prediction from the previous sentence in the second sentence. There is no blame or criticism involved. Usually it is simply an objective way of indicating an adversarial relationship, but sometimes the speaker's feelings can be included with the focus particle "～も" .
+ー　名・普通系（な形である・名である）
+14.2 ～ものの・～とはいうものの　ー　～事実なのだが、その事実から当然想像されることが起こらない　ー　ものの is sort of a more "written" style of なのに
+ー　The word "～ものの" is used to refer to a matter or situation that is contrary to or incompatible with the statement made in the previous sentence, while at the same time acknowledging it. In such cases, the second sentence is often used to express remorse or regret for what was said in the first sentence while acknowledging it.
+ー　動・形普通形（な形な・である）＋ものの
+ー　名・普通形（な形（だ））＋とはいうものの
+14.3 ～ながら（も）　ー　～という状態から予想されることとは違う・「～けれども」と前置きする　ー　while　ー　動ます形・い形い・な形/であり・名/であり
+14.4 ～つつ（も）　ー　「2.6」　ー　～という心の動きとは、行動が違っている　ー　while; even though; despite ~　ー　危険だとしりつつ、山道を登り続けた　ー　動ます形
+14.5 ～といっても　ー　実際は～ということから想像されるイメージとは違っている　ー　ถึงจะพูดว่า　ー　名・普通形
+14.6 ～からといって　ー　just because　ー　普通形
+
+15. もしそうなら・たとえそうでも
+15.1 ～としたら・～とすれば・～とすると・～となったら・～となれば～・～となると　ー　「13.4」
+ー　https://chiyo-sampo.net/grammar-jlptn2-toshitara-tosureba-tosuruto-tonartara-tonreba-tonaruto/#:~:text=%E3%80%8CA%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89%EF%BC%88%E3%81%A8%E3%81%99%E3%82%8C,%E8%A1%A8%E3%81%99%E8%A1%A8%E7%8F%BE%E3%81%AA%E3%81%A9%E3%81%8C%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
+ー　3 ตัวแรก　仮定の意味が強い
+ー　3 ตัวหลัง　実現する可能性があることにつき、それが実現した場合をかんがえている
+ー  普通形＋とする
+ー　名・普通形＋となる
+15.2 ～ものなら　ー　もし～できるなら、そうしたい・そうしてほしい　ー　ถ้ามันเป็นอย่างนั้น ได้ 動詞 辞書形式＋ ★ เป็นการสมมติ เรื่องที่เป็นจริงได้ยาก โดยแฝงความรุ้สึกว่า ถึงแม้จะรู้ว่าเป็นไปได้ยาก ก็อย่างจะลองทำดู เช่น ถ้าสามารถย้อนกลับเป็นเด็กได้ ก็อยากจะลองย้อนกลับไปดู　
+ー　น่าจะชอบใช้กับ potential from
+ー　動辞書形　
+15.3 ～（よ）うものなら　
+ー　もし～たら、大変なことになる　
+ー　動う・よう形＋ものなら
+15.4 ～ないことには　
+ー　～なければ、あることが実現しない　
+ー　unless　
+ー　動ない形・い形くない・な形でない・名でない＋ことには
+15.5 ～を抜きにしては　
+ー　～がなければ・～を考えに入れない状態では、あることが実現しない　
+ー　ถ้าขาด～
+15.6 ～としても・～にしても・～にしろ ・～にせよ　ー　「10.3」「19.6」　
+ー　たとえ～ということが事実でも、話者の気持ちはそれに影響されない
+ー　前に来る文は「としても」は仮定のこと
+ー　the rest は仮定のことでも事実のことでも良い
+
+16. ～だから（理由）ー１
+16.1 ～によって　ー　「硬い言い方」　
+ー  ～が原因で、ある結果になる・～という手段や方法であることをする。
+ー　"by means of," "due to," "owing to," or "because of."
+ー　日本は津波によって大きな彼我を受けました"、 によって is used to express the cause of the damage in Japan, which was a tsunami 
+ー　名
+16.2 ～ものだから・～もので・～もの　ー　「話し言葉」
+ー　「～ので．．．」と言い訳をする  
+ー　普通形（な形な・名な）＋ものだから・もので
+ー　普通形＋もの
+16.3 ～おかげだ/～せいだ　ー　名の・「動・形」普通形（な形な）   
+16.4 ～あまり・あまりの～に　ー  
+ー　彼女は彼からプロポーズされ、感激のあまり泣いてしまった。
+ー　*接続について、普通形ですが以下は例外です。注意しましょう。　ー　な形容詞＋な、名詞＋の＋あまり（に）
+ー　「Aあまりに、B」は「Aしすぎて、B。」「Aという気持ちが強すぎて、B。」という意味です。
+ー　名の・「動・形」普通形肯定（な形な）＋あまり
+ー　あまりの＋名＋に
+16.5 ～につき　ー　「硬い言い方」「書き言葉」　ー　「～の理由で、ある状態になる」と公に知らせる
+ー　เนื่องจาก　ー　ใช้ทางการ
+ー　名
+
+17. ～だから（理由）ー２
+17.1 ～ことだし　ー　「話し言葉」
+ー　ほかにも理由はあるが、とにかく～だからあることをする　ー　There may be other reasons, but anyway, I do something because of ~.
+ー　since / because
+ー　雨もやんだことだし、ちょっとジョギングしてこようかな。　ー　
+ー　普通形（な形な/である・名の/である）　
+17.2 ～のことだから
+ー　～の性格や普段の態度から考えると、あることが推量される　ー　Considering someone's personality and usual attitude, a certain thing can be inferred.
+ー　เพราะว่าเป็นธรรมดาของ 名詞の ＋ ★ ใช้ในกรณีที่ต้องการสื่อว่า เพราะว่าเป็นธรรมชาติของคนนั้น สิ่งนั้น โดยผู้พูดและ ผู้ฟัง ต่างก็รู้กันเป็นอย่างดี เช่น เพราะว่าเป็นธรรมดาของเขา ต้องไม่มาสายอย่างแน่นอน 彼の『なになに』、必ず遅れないよ。
+ー　名
+17.3 ～だけに
+ー　～だから、ある状態なのは当然だ・普通の場合よりもっとある状態になる
+ー　being the case; precisely because; as one would expect
+ー　เพราะ จึงเป็นธรรมดาที่ไปด้วย เพราะว่าเติบโตทีีอังกฤษ จึงเป็นธรรมดาที่ จะสามารถพูดภาษาอังกฤษได้อย่างคล่องแคล่วและมีสำเนียงที่ไพเราะตามไปด้วย
+ー　名・普通形（な形な/である・名である）
+17.4 ～ばかりに　
+ー　～が原因で、予期しない悪い結果になった
+ー　どうしても～ということを実現したいので、普通ではないことをした。
+ー　Expresses strong dissatisfaction or regret over something that led to a bad outcome.
+ー　ちょっと大工の経験があるばかりに、いろいろな仕事を頼まれてしまう
+ー　普通形（な形な/である・名である）
+17.5 ～からには・～以上（は）・～上は　
+ー　～のだから、あることをするのは当然だ・あることをしてほしい・あることをするつもりだ
+ー　〜以上 (は) ใช้วางหลังคำกริยาที่แสดงการกระทำที่เป็นการแสดงความรับผิดชอบหรือการเตรียมใจไว้ล่วงหน้า 
+ー　หมายถึง "เพราะ ~ จึงเป็นธรรมดาที่..." หรือ "ในเมื่อจะทำหรือได้ทำสิ่งนั้นแล้ว เพราะฉะนั้นจึง..."
+ー　普通形（な形である・名である）＋からには・以上（は）
+ー　動辞書形/た形＋上は
+
+18. ～できない・困難だ・～できる
+18.1 ～がたい　ー　very difficult to; hard to ~
+ー　https://japanese.stackexchange.com/questions/3279/the-differences-between-%EF%BD%9E%E3%81%8C%E3%81%9F%E3%81%84-%E3%81%AB%E3%81%8F%E3%81%84-%E3%81%A5%E3%82%89%E3%81%84
+ー　～にくい　【～難い】　ー　The most general of the three. Basic "hard/difficult to do ～" meaning.
+ー　～づらい　【～辛い】　ー　You can see that it comes from 辛つらい which can mean "difficult" or "painful". So ～づらい is usually a more subjective meaning, whereas ～にくい is usually more objective. Also, ～づらい is limited to actions that are intentional.
+ー　～がたい　【～難い】　ー　Very difficult to do. "Virtually impossible". The most expressive of the difficulty.
+ー　(～にくい <=> ～づらい) <<< ～がたい
+ー　分かりがたい is not acceptable because 分かる is not an 意志動詞. However, 理解しがたい is acceptable in its place.
+ー　動ます形　
+18.2 ～わけにはいかない・～わけにもいかない　ー　「25.4」　
+ー　ใช้เมื่อต้องการกล่าวว่า “ถึงแม้จะอยากทำ แต่เมื่อพิจารณาเหตุผลทางสังคม สามัญสำนึก หรือความรู้สึกส่วนตัวแล้ว ทำสิ่งนั้นไม่ได้”
+ー　ไม่ใช้ในความหมายว่า "ทำไม่ได้เพราะไม่มีความสามารถหรือเพราะเป็นกฎเกณฑ์"
+ー　「生徒たちの模範であるべき我々生徒会役員が、遅刻するわけにはいかないからな」　ー　พวกเราสมาชิกสภานักเรียนที่ควรเป็นต้นแบบให้เหล่านักเรียนคนอื่นๆ จะมาโรงเรียนสายไม่ได้ล่ะนะ
+ー　動辞書形
+18.3 ～かねる　
+ー　〜かねる ใช้แสดงความหมายว่า “ทำเช่นนั้นได้ยากหรือทำไม่ได้” โดยแฝงความหมายว่า “ต่อให้คิดจะทำหรือต่อให้พยายามทำ ก็ทำไม่ได้”
+ー　บางครั้ง สำนวนนี้ถูกนำไปใช้ในการกล่าวอ้อมๆ ในงานบริการ กรณีที่ไม่สามารถตอบสนองความประสงค์ของลูกค้าได้
+ー　「ダメです。まだ貴方が安全かどうか判断しかねますから」　ー　"ไม่ได้ค่ะ เพราะว่าฉันยังตัดสินไม่ได้ว่าคุณปลอดภัยหรือไม่"
+ー　動ます形
+18.4 ～ようがない
+ー　～したくても、どのようにしたらいいかわからない・可能性が全くない
+ー　no way as in no method　
+ー　動ます形
+18.5 ～どころではない　ー　「12.2」
+ー　～できる状態ではない　
+ー　not the time for; not the place for; far from; anything but ~
+ー　仕事がいそがしくて、旅行どころではない
+ー　名・動辞書形
+18.6 ～得る/～得ない
+ー　～できる・その可能性がある/～できない・その可能性がない
+ー　特定の人のに日常的な能力（英語が話せる）や状況的可能性（酒を飲んでいないから運転できる）について言うときは使いにくい。　
+ー　動ます形
+
+19. ～を見て評価すると・～の立場で評価すると
+19.1 ～わりに（は）
+ー　เมื่อเทียบกับ....　
+ー　ใช้เน้นย้ำกับเรื่องราวที่ต่างไปจากสิ่งที่เราคิดหรือไม่ตรงกับสิ่งที่เราคาดหวังไว้
+ー　ไม่ใช้กับตัวเอง
+ー　このお菓子は値段のわりには量が少ない
+ー　名の・「動・形」普通形（な形な/である）
+19.2 ～にしては
+ー　という事実・標準から考えると、予想外だ
+ー　今日は2月にしては暖かった
+ー　for; considering it’s (something or someone)
+ー　สำหรับ.... / ไม่สมกับ....
+ー　จะใช้กับเรื่องที่เฉพาะเจาะจงกว่า หรือเมื่อพิจารณาแล้วไม่ตรงกับข้อเท็จจริง
+ー　ไม่ใช้กับตัวเอง
+ー　名の・普通形（な形である/名である）
+19.3 ～だけ（のことは）ある　
+ー　～という条件から期待されるとおりだ
+ー　no wonder; as expected of; not ... for nothing; not ... with nothing to show for it
+ー　สมแล้ว?
+ー　素晴らしいのマンションだ。家賃が高いだけのことはある。
+ー　名・普通形（な形な）＋だけ（のことは）ある
+19.4 ～として　
+ー　as
+ー　ความหมาย : ในฐานะ, ในฐานะที่เป็น
+ー　名
+19.5 ～にとって　
+ー　for
+ー　名
+19.6 ～にしたら・～にすれば・～にしてみれば・～にしても　ー　「15.6」
+ー　～の立場になってみれば・～の立場から言っても、あることが言える
+ー　https://www.youtube.com/watch?v=IRAwxvRHhx8　ー ดูคลิปไปเลย
+ー　名
+
+20. 結果はどうなったか
+20.1 ～たところ
+ー　～してみたら、ある結果になった・ある状態がわかった
+ー　พอลองทำ～ กลายเป็ยผลลัพธ์บางอย่าง・เข้าใจสถานะบางอย่าง
+ー　動た形＋ところ
+20.2 ～きり
+ー　since; after ~
+ー　彼女とは別れたきり、一度も会っていない。
+ー　動た形
+ー　名っ＋きり
+20.3 ～あげく
+ー　いろいろ～した後で、結局残念な結果になった
+ー　"ended up"
+ー　It includes a sense of disappointment/regret that after all the efforts, it was not possible.
+ー　5時間に及ぶ議論のあげく、結局、結論がでなかった
+ー　名の・動た形
+20.4 ～末に
+ー　いろいろ～した後で、最終的にある結果になった
+ー　数回に及ぶ議論の末、Aの案を採用することにした
+ー　หลังจากที่...อยู่นานก็ 動詞た 名詞の＋★ ใช้ในกรณีที่ว่า 
+ー　หลังจากที่ได้ทำอย่างใดอย่างหนึ่งมาเป็นเวลานาน ในที่สุด ก็ได้ผลสรุป 
+ー　ซึ่งอาจเป็นผลดี หรือ ผลเสียก็ได้ 
+ー　แต่มักจะเป็นบทสรุปในแง่ ดี เช่น หลังจากที่ลังเลอยู่นาน 
+ー　ก็ตัดสินใจว่าจะเข้าสอบที่มหาวิทยาลัยเท่านั้น 
+ー　例文：いろいろ迷った『なになに』、大学だけに受験することにした。
+ー　名の・動た形
+20.5 ～ところだった
+ー　เกือบ
+ー　was just about to do something; something almost happened
+ー　ああ, もう少しで忘れるところだった。
+ー　動辞書形/ない形
+20.6 ～ずじまいだ
+ー　せず＋しまう？
+ー　～ようと思っていたのに、結局できなかった・～ないで終わった
+ー　ended up not doing ~
+ー　旅行前にガイドブックを買ったけど、使わずじまいだった。
+ー　I bought a guidebook before the trip, but I didn't use it.
+ー　動ない形＋ずじまいだ
+ー　する➞せず
+
+21. 強く言う・軽く言う  
+21.1 ～ぐらい・～くらい
+ー　แค่
+ー　名・「動・形」普通形（な形な）
+21.2 ～など・～なんか・～なんて　ー　「話し言葉」 ー　名
+21.3 ～まで・～までして・～てまで
+ー　～という極端な程度のもの・ことも、ある状態だ・あることをする
+ー　一番に賛成してくれると思っていた母まで私の結婚に反対した。
+ー　カニングまでしていい点を取りたかったのですか
+ー แม้แต่?・จนถึงต้อง?
+ー　名＋まで・までして
+ー　動て形＋まで
+21.4 ～として～ない
+ー　あることを「最低限度の～も全くない」と否定する
+ー　not at all; there is not even one
+ー　彼の提案に「だれ一人」として「反対でき」なかった
+ー　人生に無駄なものは何一つとしてない。失敗も必ず何かの役に立つはずだ
+ー　（何・だれ＋）一＋助数詞＋として～ない
+21.5 ～さえ
+ー　名＋さえ
+21.6 ～てでも
+ー　普通はしないような～という手段を使う覚悟で、あることをする
+ー　With the determination to use a method that is not usually employed, one does a certain thing.
+ー　娘が家に帰りたくないと言ったら、引っ張ってでも連れて帰ろう
+ー　熱があるが、大切な約束があるので、どんなことをしてでも行かなければならない
+ー　แม้จะต้อง・ไม่ว่าจะต้อง
+ー　動て形＋でも
+
+22. ～だろうと思う 
+22.1 ～とみえる　
+ー　ある根拠があって、～らしい・～ようだと思う
+ー　it seems that ~
+ー　普通形
+22.2 ～かねない　
+ー　ใช้แสดงความหมายว่า มีความเป็นไปได้ที่จะเกิดเหตุการณ์ที่ไม่ดี คล้ายกับ 「〜かもしれない」แต่ต่างกันที่ 「〜かねない」จะใช้กับเรื่องที่ไม่ดีเท่านั้น แปลเป็นภาษาไทยว่า “อาจจะ...”
+ー　動ます形
+22.3 ～おそれがある　ー　「硬い言い方」
+ー　เกรงว่า　
+ー　名の・動辞書形/ない形　
+
+"おそれがある" includes the meaning of something bad or something to avoid.
+"かねない" does not necessarily include such a meaning.
+Examples:
+この雨では、洪水になるおそれがある。＝洪水になりかねない。
+In this rain, there is a risk of flooding. = It could lead to flooding.
+
+子供たちは元気で、今にも走り出しかねない。
+The children are energetic, and they could start running at any moment.
+→ It doesn't necessarily mean something bad. If you say "走り出すおそれがある", it implies that running should be stopped.
+
+22.4 ～まい/～ではあるまいか　ー　「24.5」　ー　「書き言葉」
+ー　～ないだろう/～ではないだろうか
+ー　https://pantip.com/topic/30718493
+ー　動辞書形＊・い形くある・な形ではある・名ではある＋まい　ー　＊動２・３➞動辞書形/woない＋まい　ー　する➞「すまい」もある
+ー　普通形＋の（な形/なの・名/なの）＋ではあるまいか
+22.5 ～に違いない・～に相違ない　
+ー　～に相違ない➞「硬い言い方」　
+ー　without a doubt; certain; sure
+ー　普通形（な形/である・名/である）
+22.6 ～にきまっている　ー　話し言葉
+ー　絶対に～だと思う
+ー　「に決まっている」「に違いない」はどちらも同じ意味です。
+ー　柔らかい表現の方が「に決まっている」です。
+ー　ต่างกับ　に違いない　ตรงที่มีความหมายว่า ไม่ว่าใครคิดก็เป็น～ subjectively, with intuition
+ー　普通形（な形woだ・名woだ）   
+
+23. 感想を言う・主張する
+23.1 ～ものだ　ー　「24.3」「26.2」　
+ー　一般的に見て、本来～だ・～というのは真理だ
+ー　state fact
+ー　動辞書形/ない形・い形い・な形な
+23.2 ～というものだ　
+ー　常識的に見て、まさに～だ
+ー　普通形（な形woだ・名woだ）
+
+ものだ (mono da):
+The ものだ expression is used to indicate a general truth, something that is universally or inherently true, or a widely accepted fact. It can be translated as "it is (originally/naturally) that~" or "it is a truth that~". This expression is often used to emphasize what is considered natural, proper, or common sense in a given situation.
+For example:
+
+若いころに苦労するものだ (wakai koro ni kurou suru mono da)
+"It's natural to struggle when you're young."
+というものだ (to iu mono da):
+The というものだ expression is used to emphasize that something is true from a common sense or conventional perspective. It can be translated as "it is indeed that~" or "it is common sense that~". This expression is used when stating something that is widely recognized or agreed upon.
+For example:
+
+勉強すれば成績が上がるというものだ (benkyou sureba seiseki ga agaru to iu mono da)
+"It's common sense that if you study, your grades will improve."
+In summary, both expressions convey something that is true or widely accepted. However, ものだ emphasizes the inherent or natural truth, while というものだ focuses on the common sense or conventional aspect of the statement.
+
+23.3 ～にすぎない
+ー　เพียงแค่~เท่านั้น
+ー　〜にすぎない เป็นสำนวนที่ใช้เน้นว่าสิ่งนั้นมีระดับต่ำ ความหมายคือ “เป็นเพียงแค่ ~ เท่านั้น ไม่ได้มีอะไรมากไปกว่านั้น” โดยมากมักใช้เพื่อบอกถึงปริมาณหรือระดับขั้นต่ำของสิ่งใดสิ่งหนึ่ง
+ー　สามารถใช้ได้ทั้งความหมายเชิงบวก เป็นกลาง และเชิงลบ นอกจากนี้ยังใช้ในความหมายที่ว่า "ไม่ได้มีความสำคัญอะไร" ได้อีกด้วย
+ー　名・普通形（な形である・名である）
+23.4 ～にほかならない　ー　「硬い言い方」　
+ー　～だ。それ以外ではない
+ー　nothing but; none other than ~
+ー　将来この国を支えるのは、若い君たちにほかなりません
+ー　名
+23.5 ～に越したことはない
+ー　it’s best that, there’s nothing better than ~
+ー　明るいうちに移動しておくに越したことはない　ー　Shoujo_Shuumatsu_Ryokou_1x04 EP (02m33s528ms)
+ー　普通形現在（な形である・名である）
+23.6 ～しかない・～よりほかない
+ー　have no choice but ~
+ー　มีแต่จะต้อง
+ー　動辞書形
+23.7 ～べきだ/～べきではない
+ー　〜べき และ 〜べきだ มีความหมายว่า “เป็นสิ่งที่สมควรทำ” หรือ “การทำ...เป็นสิ่งที่ถูกต้อง”
+ー　ใช้เมื่อผู้พูดต้องการจะกล่าวยืนยันความคิดของตน หากใช้พูดถึงอีกฝ่ายจะเป็นการกล่าวเตือน การแนะนำ หรือการสั่ง
+ー　รูปปฏิเสธคือ 「〜べきではない」 มีความหมายว่า "การทำ...เป็นสิ่งไม่ดีหรือไม่ถูกต้อง"
+ー　動辞書形
+ー　する➞するべき➞すべき
+
+24. 提案する・意志を表す 　 
+24.1 ～（よ）うではないか　
+ー　一緒に～しよう・～しませんか
+ー　「硬い言い方」　　
+24.2 ～ことだ　ー　「26.5」
+ー　～する/～しないことが大切だ・～した/～しないほうがいい　
+ー　should do~ (used for suggestions or giving advice)
+ー　動辞書形/ない形
+24.3 ～ものだ/～ものではない　ー　「23.1」「26.2」　
+ー　～したほうがいい・～しなければならない/～しないほうがいい・してはいけない
+ー　動辞書形/ない形＋ものだ
+ー　動辞書形＋ものではない
+24.4 ～ことはない
+ー　～する必要はない
+ー　動辞書形
+24.5 ～まい/～（よ）うか～まいか　ー　「22.4」
+ー　～するつもりではない・～しないでおこう/～しようか～しないでおこうか
+ー　こんなばかな失敗は二度とするまい。気を付けよう。
+ー　動辞書形＊＋まい　ー　動う・よう形＋か＋動辞書形＊＋まいか　ー　同じ動詞を使う
+ー　＊動２・３➞動辞書形/woない＋まい　ー　する➞「すまい」もある
+24.6 ～ものか　ー　「12.3」
+ー　絶対～するつもりはない
+ー　動辞書形
+
+25. 強くそう感じる・悪いが強いられる
+25.1 ～てしかたがない・～てしょうがない・～てたまらない
+ー　非常に～だと感じる
+ー　can't help but; very; extremely 
+ー　ซึ่งใช้เมื่อต้องการจะกล่าวว่า รู้สึกเช่นนั้นอย่างมากกกกกกกกกกกกกกก  / อดที่จะ ... ไม่ได้ / .... เหลือเกิน / ไม่ไหวแล้ว
+25.2 ～てならない　
+ー　気持ちが非常に～だ
+ー　can't help but; dying to; extremely ~
+
+全て意味は同じですが、どれだけ「したい」のかの度合いが下のように変わってきます。
+
+てならない≦てしょうがない≦てたまらない
+(てならない<てたまらない)
+
+25.3 ～ないではいられない・～ずにはいられない　
+ー　どうしても～してしまって抑えられない
+ー　can’t help but feel; can’t help but do ~
+25.4 ～ないわけに（は）いかない　ー　「18.2」
+ー　事情があって～しなければならない
+ー　親友の結婚式だから、忙しくても出席しないわけにはいかない
+25.5 ～ざるをえない　
+ー　そうしたくないが、どうにもならない事情があってしかたなく～する
+ー　ใช้ในสถานการณ์ที่ไม่มีทางเลือก จึงจำเป็นต้องทำ มีความหมายว่า “จำเป็นต้อง...”
+ー　仕事はまだ終わらないので、残業せざるを得ない。　ー　จำเป็นต้องทำโอที เพราะงานยังไม่เสร็จ
+ー　骨折したので、病院へ行かざるを得ない。　ー　จำเป็นต้องไปโรงพยาบาล เพราะกระดูกหัก
+ー　動woない
+ー　する➞せざる
+
+26. 願う・感動する
+26.1 ～たいものだ・～てほしいものだ
+ー　動ます形＋たいものだ
+ー　動て形/ない形＋で　＋　ほしいものだ
+26.2 ～ものだ　ー　「23.1」「24.3」
+ー　นึกถึงอดีตของการทำ～หลายๆครั้ง
+ー　動た形＋ものだ
+
+ー　～ということを非常に強く感じる・感心する・あきれる
+ー　ใช้ในการเน้นความรู้สึกประทับใจหรือประหลาดใจ
+ー　มีความหมายว่า "จริงๆ"
+ー　親友に会うのは楽しいものだ。　ー　การพบปะเพื่อนสนิทช่างสนุกจริงๆ
+ー　「動・形」普通形（な形な）＋ものだ
+26.3 ～ないもの（だろう）か
+ー　実現は難しいが、何とかして～ということになってほしい
+ー　isn't there; can’t we…?; can’t I…?
+ー　どうにかして母の病気が治らないものか
+26.4 ～ものがある
+ー　～という感じがある
+ー　มีความรู้สึกว่า
+ー　「動・形」普通形現在（な形な）＋ものがある
+26.5 ～ことだ　ー　「24.2」
+ー　い形い・な形な＋ことだ
+
+https://japanese.stackexchange.com/questions/60957/difference-between-%E3%82%82%E3%81%AE%E3%81%A0-%E3%81%93%E3%81%A8%E3%81%A0-and-%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8B
+In the context of the explanation you provided, "reduces sense of commitment" means that using ものだ in the sentence makes the speaker's emotion sound more like a general observation or statement, rather than a personal expression of their own feelings. By using ものだ, the speaker is distancing themselves from the emotion to some extent, making it sound less like a personal commitment to that feeling.
+To recap, the three expressions differ in the following ways:
+ことだ: Used to express strong emotions like surprise, admiration, or irony in response to someone else's situation. It doesn't work well for expressing one's own emotions or experiences.
+ものだ: Used to express strong feelings, but turns the raw emotion into a general observation or statement, which reduces the sense of personal commitment to the feeling. It may not be suitable for expressing very personal emotions, especially in combination with certain adjectives or phrases.
+ものがある: Used to partially acknowledge one's own emotions, making it more suitable for expressing personal feelings in the given example.
+
+
+26.6 ～ことだろう・～ことか　ー　「書き言葉」
+ー　非常に多く～する（ある）・非常に～と感じる
+ー　how…!; what…!
+ー　https://www.facebook.com/643354622781034/posts/1334777236972099/?paipv=0&eav=AfZDnHeEZPDuP8ZK4asbli7NTRq_1OgOOf_sI63ON-iyAXLwf3777QtTGaRXlJ6Rs5k&_rdr
+ー　疑問詞＋普通形（な形な/である・名である）
